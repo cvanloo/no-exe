@@ -1,0 +1,5 @@
+- id: no-exe
+  name: No-Exe
+  entry: no-exe-commit.janet
+  language: script
+  types: [file]
